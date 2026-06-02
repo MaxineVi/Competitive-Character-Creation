@@ -19,523 +19,524 @@
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_3.png"
     },
     {
-        "ART: ARCHEOLOGIST'S INSIGHT",
+        "name": "ART: ARCHEOLOGIST'S INSIGHT",
         "mana_cost": "{3}",
         "type": "Past",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_4.png"
     },
     {
-        "ALCHEMY: SMALL POTION",
+        "name": "ALCHEMY: SMALL POTION",
         "mana_cost": "{1}",
         "type": "Past",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_5.png"
     },
     {
-        "ALCHEMY: GREEK FIRE",
+        "name": "ALCHEMY: GREEK FIRE",
         "mana_cost": "{2}",
         "type": "Past",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_6.png"
     },
     {
-        "ALCHEMY: THROWN CONCOCTION",
+        "name": "ALCHEMY: THROWN CONCOCTION",
         "mana_cost": "{3}",
         "type": "Past",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_7.png"
     },
     {
-        "ALCHEMY: ELIXIR OF RESISTANCE",
+    {
+        "name": "ALCHEMY: ELIXIR OF RESISTANCE",
         "mana_cost": "{X}",
         "type": "Past",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_8.png"
     },
     {
-        "SPELL: ENTROPY BOLT",
+        "name": "SPELL: ENTROPY BOLT",
         "mana_cost": "{1}",
         "type": "Past",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_9.png"
     },
     {
-        "SPELL: CRYSTALLINE BLOOM",
+        "name": "SPELL: CRYSTALLINE BLOOM",
         "mana_cost": "{2}",
         "type": "Past",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_10.png"
     },
     {
-        "SPELL: ELEMENTAL BLAST",
+        "name": "SPELL: ELEMENTAL BLAST",
         "mana_cost": "{2}",
         "type": "Past",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_11.png"
     },
     {
-        "SPELL: MINOR ICE MAGIC",
+        "name": "SPELL: MINOR ICE MAGIC",
         "mana_cost": "{2}",
         "type": "Past",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_12.png"
     },
     {
-        "SPELL: ICE MAGIC",
+        "name": "SPELL: ICE MAGIC",
         "mana_cost": "{3}",
         "type": "Past",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_13.png"
     },
     {
-        "SPELL: MAGE’S FAMILIAR",
+        "name": "SPELL: MAGE’S FAMILIAR",
         "mana_cost": "{3}",
         "type": "Past",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_14.png"
     },
     {
-        "SPELL: SHADOW OF DEATH",
+        "name": "SPELL: SHADOW OF DEATH",
         "mana_cost": "{3}",
         "type": "Past",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_15.png"
     },
     {
-        "SPELL: SNUFF OUT",
+        "name": "SPELL: SNUFF OUT",
         "mana_cost": "{3}",
         "type": "Past",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_16.png"
     },
     {
-        "SPELL: TRUE SEER",
+        "name": "SPELL: TRUE SEER",
         "mana_cost": "{4}",
         "type": "Past",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_17.png"
     },
     {
-        "SPELL: GREATER ICE MAGIC",
+        "name": "SPELL: GREATER ICE MAGIC",
         "mana_cost": "{4}",
         "type": "Past",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_18.png"
     },
     {
-        "SPELL: UNVEIL THE PAST",
+        "name": "SPELL: UNVEIL THE PAST",
         "mana_cost": "{4}",
         "type": "Past",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_19.png"
     },
     {
-        "SPELL: MARK OF ATTRITION",
+        "name": "SPELL: MARK OF ATTRITION",
         "mana_cost": "{5}",
         "type": "Past",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_20.png"
     },
     {
-        "SPELL: ULTIMA",
+        "name": "SPELL: ULTIMA",
         "mana_cost": "{5}",
         "type": "Past",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_21.png"
     },
     {
-        "RELIC: VIOL OF MYTH",
+        "name": "RELIC: VIOL OF MYTH",
         "mana_cost": "{6}",
         "type": "Past",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_22.png"
     },
     {
-        "CHANNEL: INTO PRESENT",
+        "name": "CHANNEL: INTO PRESENT",
         "mana_cost": "{1}",
         "type": "Past",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_23.png"
     },
     {
-        "CHANNEL: HISTORY’S LESSONS",
+        "name": "CHANNEL: HISTORY’S LESSONS",
         "mana_cost": "{1}",
         "type": "Past",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_24.png"
     },
     {
-        "ART: PHOENIX STEP",
+        "name": "ART: PHOENIX STEP",
         "mana_cost": "{1}",
         "type": "Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_25.png"
     },
     {
-        "ART: THOUSAND CUTS",
+        "name": "ART: THOUSAND CUTS",
         "mana_cost": "{1}",
         "type": "Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_26.png"
     },
     {
-        "ART: FEINT",
+        "name": "ART: FEINT",
         "mana_cost": "{2}",
         "type": "Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_27.png"
     },
     {
-        "ART: JUMPING FLIGHT",
+        "name": "ART: JUMPING FLIGHT",
         "mana_cost": "{2}",
         "type": "Now",
-        "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_28.png"
+        "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v3_28.png"
     },
     {
-        "ART: PERSPECTIVE SHIFT",
+        "name": "ART: PERSPECTIVE SHIFT",
         "mana_cost": "{2}",
         "type": "Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_29.png"
     },
     {
-        "ART: TAUNT",
+        "name": "ART: TAUNT",
         "mana_cost": "{2}",
         "type": "Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_30.png"
     },
     {
-        "ART: PARRY",
+        "name": "ART: PARRY",
         "mana_cost": "{3}",
         "type": "Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_31.png"
     },
     {
-        "ART: PICKPOCKET",
+        "name": "ART: PICKPOCKET",
         "mana_cost": "{3}",
         "type": "Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_32.png"
     },
     {
-        "ART: REDIRECT",
+        "name": "ART: REDIRECT",
         "mana_cost": "{4}",
         "type": "Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_33.png"
     },
     {
-        "ART: KI BLAST",
+        "name": "ART: KI BLAST",
         "mana_cost": "{X}",
         "type": "Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_34.png"
     },
     {
-        "ALCHEMY: POISONED BLADES",
+        "name": "ALCHEMY: POISONED BLADES",
         "mana_cost": "{1}",
         "type": "Past",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_35.png"
     },
     {
-        "ALCHEMY: VITALITY POTION",
+        "name": "ALCHEMY: VITALITY POTION",
         "mana_cost": "{2}",
         "type": "Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_36.png"
     },
     {
-        "ALCHEMY: ELEMENT OF CHANGE",
+        "name": "ALCHEMY: ELEMENT OF CHANGE",
         "mana_cost": "{3}",
         "type": "Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_37.png"
     },
     {
-        "SPELL: INSPIRATION",
+        "name": "SPELL: INSPIRATION",
         "mana_cost": "{1}",
         "type": "Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_38.png"
     },
     {
-        "SPELL: ENVIGORATE",
+        "name": "SPELL: ENVIGORATE",
         "mana_cost": "{2}",
         "type": "Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_39.png"
     },
     {
-        "SPELL: MINOR LIGHTNING MAGIC",
+        "name": "SPELL: MINOR LIGHTNING MAGIC",
         "mana_cost": "{2}",
         "type": "Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_40.png"
     },
     {
-        "SPELL: DISPEL",
+        "name": "SPELL: DISPEL",
         "mana_cost": "{3}",
         "type": "Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_41.png"
     },
     {
-        "SPELL: LIGHTNING MAGIC",
+        "name": "SPELL: LIGHTNING MAGIC",
         "mana_cost": "{3}",
         "type": "Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_42.png"
     },
     {
-        "SPELL: SLOW",
+        "name": "SPELL: SLOW",
         "mana_cost": "{3}",
         "type": "Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_43.png"
     },
     {
-        "SPELL: GREATER LIGHTNING MAGIC",
+        "name": "SPELL: GREATER LIGHTNING MAGIC",
         "mana_cost": "{4}",
         "type": "Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_44.png"
     },
     {
-        "SPELL: SUDDEN GROWTH",
+        "name": "SPELL: SUDDEN GROWTH",
         "mana_cost": "{5}",
         "type": "Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_45.png"
     },
     {
-        "RELIC: STAVE OF TRANSIENCE",
+        "name": "RELIC: STAVE OF TRANSIENCE",
         "mana_cost": "{6}",
         "type": "Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_46.png"
     },
     {
-        "CHANNEL: PASTS CATCHING UP",
+        "name": "CHANNEL: PASTS CATCHING UP",
         "mana_cost": "{1}",
         "type": "Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_47.png"
     },
     {
-        "CHANNEL: COMING UP NEXT",
+        "name": "CHANNEL: COMING UP NEXT",
         "mana_cost": "{1}",
         "type": "Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_48.png"
     },
     {
-        "ART: CALCULATED RISK",
+        "name": "ART: CALCULATED RISK",
         "mana_cost": "{1}",
         "type": "Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_49.png"
     },
     {
-        "ART: HYDRA DANCE",
+        "name": "ART: HYDRA DANCE",
         "mana_cost": "{1}",
         "type": "Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_50.png"
     },
     {
-        "ART: BLADE DANCE",
+        "name": "ART: BLADE DANCE",
         "mana_cost": "{2}",
         "type": "Future",
-        "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_51.png"
+        "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v3_51.png"
     },
     {
-        "ART: SLOW DANCE",
+        "name": "ART: SLOW DANCE",
         "mana_cost": "{4}",
         "type": "Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_52.png"
     },
     {
-        "SPELL: DISCOVERY",
+        "name": "SPELL: DISCOVERY",
         "mana_cost": "{1}",
         "type": "Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_53.png"
     },
     {
-        "SPELL: FORESIGHT",
+        "name": "SPELL: FORESIGHT",
         "mana_cost": "{1}",
         "type": "Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_54.png"
     },
     {
-        "SPELL: BORROWED TIME",
+        "name": "SPELL: BORROWED TIME",
         "mana_cost": "{2}",
         "type": "Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_55.png"
     },
     {
-        "SPELL: DIVINATION",
+        "name": "SPELL: DIVINATION",
         "mana_cost": "{2}",
         "type": "Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_56.png"
     },
     {
-        "SPELL: HEALING WARD",
+        "name": "SPELL: HEALING WARD",
         "mana_cost": "{2}",
         "type": "Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_57.png"
     },
     {
-        "SPELL: MINOR FIRE MAGIC",
+        "name": "SPELL: MINOR FIRE MAGIC",
         "mana_cost": "{2}",
         "type": "Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_58.png"
     },
     {
-        "SPELL: FIRE MAGIC",
+        "name": "SPELL: FIRE MAGIC",
         "mana_cost": "{3}",
         "type": "Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_59.png"
     },
     {
-        "SPELL: HOLY WARMTH",
+        "name": "SPELL: HOLY WARMTH",
         "mana_cost": "{3}",
         "type": "Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_60.png"
     },
     {
-        "SPELL: PEER INTO THE ABYSS",
+        "name": "SPELL: PEER INTO THE ABYSS",
         "mana_cost": "{3}",
         "type": "Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_61.png"
     },
     {
-        "SPELL: TRUST IN ME",
+        "name": "SPELL: TRUST IN ME",
         "mana_cost": "{3}",
         "type": "Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_62.png"
     },
     {
-        "SPELL: TRUST IN YOU",
+        "name": "SPELL: TRUST IN YOU",
         "mana_cost": "{3}",
         "type": "Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_63.png"
     },
     {
-        "SPELL: GREATER FIRE MAGIC",
+        "name": "SPELL: GREATER FIRE MAGIC",
         "mana_cost": "{4}",
         "type": "Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_64.png"
     },
     {
-        "SPELL: DRAIN LIFE",
+        "name": "SPELL: DRAIN LIFE",
         "mana_cost": "{4}",
         "type": "Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_65.png"
     },
     {
-        "SPELL: EVIL EYE",
+        "name": "SPELL: EVIL EYE",
         "mana_cost": "{5}",
         "type": "Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_66.png"
     },
     {
-        "SPELL: BRAVING WINDS",
+        "name": "SPELL: BRAVING WINDS",
         "mana_cost": "{5}",
         "type": "Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_67.png"
     },
     {
-        "SPELL: WISH",
+        "name": "SPELL: WISH",
         "mana_cost": "{6}",
         "type": "Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_68.png"
     },
     {
-        "SPELL: REVELATION",
+        "name": "SPELL: REVELATION",
         "mana_cost": "{X}",
         "type": "Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_69.png"
     },
     {
-        "RELIC: SWORD OF PROPHECY",
+        "name": "RELIC: SWORD OF PROPHECY",
         "mana_cost": "{6}",
         "type": "Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_70.png"
     },
     {
-        "CHANNEL: THE LONG WAY ROUND",
+        "name": "CHANNEL: THE LONG WAY ROUND",
         "mana_cost": "{1}",
         "type": "Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_71.png"
     },
     {
-        "CHANNEL: THE FUTURE IS NOW",
+        "name": "CHANNEL: THE FUTURE IS NOW",
         "mana_cost": "{1}",
         "type": "Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_72.png"
     },
     {
-        "ART: LASH OUT",
+        "name": "ART: LASH OUT",
         "mana_cost": "{2}",
         "type": "Past+Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_73.png"
     },
     {
-        "ALCHEMY: TINCTURE OF LUCIDITY",
+        "name": "ALCHEMY: TINCTURE OF LUCIDITY",
         "mana_cost": "{3}",
         "type": "Past+Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_74.png"
     },
     {
-        "ART: LEND A HAND",
+        "name": "ART: LEND A HAND",
         "mana_cost": "{3}",
         "type": "Past+Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_75.png"
     },
     {
-        "ALCHEMY: PETRIFICATION",
+        "name": "ALCHEMY: PETRIFICATION",
         "mana_cost": "{4}",
         "type": "Past+Now",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_76.png"
     },
     {
-        "SPELL: DOUBLECAST",
+        "name": "SPELL: DOUBLECAST",
         "mana_cost": "{2}",
         "type": "Now+Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_77.png"
     },
     {
-        "ART: TOGETHER AS ONE",
+        "name": "ART: TOGETHER AS ONE",
         "mana_cost": "{3}",
         "type": "Now+Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_78.png"
     },
     {
-        "SPELL: LUNARCH SANCTUM",
+        "name": "SPELL: LUNARCH SANCTUM",
         "mana_cost": "{3}",
         "type": "Now+Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_79.png"
     },
     {
-        "ART: DISCO MAGUS",
+        "name": "ART: DISCO MAGUS",
         "mana_cost": "{4}",
         "type": "Now+Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_80.png"
     },
     {
-        "SPELL: UNRIPE PREPARATIONS",
+        "name": "SPELL: UNRIPE PREPARATIONS",
         "mana_cost": "{2}",
         "type": "Past+Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_81.png"
     },
     {
-        "ART: AGAIN, WITH ME",
+        "name": "ART: AGAIN, WITH ME",
         "mana_cost": "{3}",
         "type": "Past+Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_82.png"
     },
     {
-        "SPELL: SMITE",
+        "name": "SPELL: SMITE",
         "mana_cost": "{3}",
         "type": "Past+Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_83.png"
     },
     {
-        "SPELL: OPENER",
+        "name": "SPELL: OPENER",
         "mana_cost": "{4}",
         "type": "Past+Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_84.png"
     },
     {
-        "RELIC: FAITHFUL COMPANION",
+        "name": "RELIC: FAITHFUL COMPANION",
         "mana_cost": "{3}",
         "type": "Past+Now+Future",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_85.png"
     },
     {
-        "INTERVENTION: EXCHANGED",
+        "name": "INTERVENTION: EXCHANGED",
         "mana_cost": "{0}",
         "type": "Unknown",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_86.png"
     },
     {
-        "INTERVENTION: GRAVE ECHO",
+        "name": "INTERVENTION: GRAVE ECHO",
         "mana_cost": "{0}",
         "type": "Unknown",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_87.png"
     },
     {
-        "INTERVENTION: ORDER",
+        "name": "INTERVENTION: ORDER",
         "mana_cost": "{0}",
         "type": "Unknown",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_88.png"
     },
     {
-        "INTERVENTION: RESPITE",
+        "name": "INTERVENTION: RESPITE",
         "mana_cost": "{0}",
         "type": "Unknown",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_89.png"
     },
     {
-        "INTERVENTION: TRANSFUSE",
+        "name": "INTERVENTION: TRANSFUSE",
         "mana_cost": "{0}",
         "type": "Unknown",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_90.png"
