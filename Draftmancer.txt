@@ -1,0 +1,13 @@
+[CustomCards]
+[
+    {
+        "name": "Absence",
+        "rarity": "common",
+        "mana_cost": "{2}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Absence.png"
+    },
+]
