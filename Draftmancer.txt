@@ -13,7 +13,7 @@
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_2.png"
     },
     {
-        "name": "ART: GENERAL'S ACT",
+        "name": "ART: GENERAL’S ACT",
         "mana_cost": "{2}",
         "type": "Past",
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_3.png"
