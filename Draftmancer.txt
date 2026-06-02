@@ -2,12 +2,8 @@
 [
     {
         "name": "Art: Banshee Swing",
-        "rarity": "common",
         "mana_cost": "{1}",
         "type": "Past",
-        "subtypes": [
-            ""
-        ],
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC%20-%20Cards%20-%20v2_1.png"
     },
 ]
