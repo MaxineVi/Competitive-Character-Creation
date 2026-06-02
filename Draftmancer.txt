@@ -43,7 +43,6 @@
         "image": "https://raw.githubusercontent.com/MaxineVi/Competitive-Character-Creation/main/CardImages/CCC - Cards - v2_7.png"
     },
     {
-    {
         "name": "ALCHEMY: ELIXIR OF RESISTANCE",
         "mana_cost": "{X}",
         "type": "Past",
